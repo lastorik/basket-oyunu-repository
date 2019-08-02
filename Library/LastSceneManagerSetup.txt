@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/tirrek_yedek/tirrek_yedek.unity
+  isLoaded: 1
+  isActive: 1

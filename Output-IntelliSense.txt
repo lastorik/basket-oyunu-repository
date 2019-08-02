@@ -1,0 +1,1 @@
+﻿[Failure] Could not find file 'C:\Users\Cp Turkey\New Unity Project (2)\Assets\tutorials\deneme.cs'.
